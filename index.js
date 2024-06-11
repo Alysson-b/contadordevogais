@@ -14,9 +14,6 @@ const contarVogais = (str) =>{
     return contagem;
 }
 
-
-
-
 const atualizarResultado = () => {
     const inputSring = document.getElementById('inputString').value
 
